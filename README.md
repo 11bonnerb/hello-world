@@ -1,2 +1,2 @@
 # hello-world
-I am satoshi... and bearableguy123
+I am satoshi nakamoto... and bearableguy123
